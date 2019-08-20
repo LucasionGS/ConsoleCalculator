@@ -1,0 +1,11 @@
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\bin\Debug\netcoreapp2.1\ConsoleCal.deps.json
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\bin\Debug\netcoreapp2.1\ConsoleCal.runtimeconfig.json
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\bin\Debug\netcoreapp2.1\ConsoleCal.runtimeconfig.dev.json
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\bin\Debug\netcoreapp2.1\ConsoleCal.dll
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\bin\Debug\netcoreapp2.1\ConsoleCal.pdb
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.csprojAssemblyReference.cache
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.csproj.CoreCompileInputs.cache
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.AssemblyInfoInputs.cache
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.AssemblyInfo.cs
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.dll
+C:\Users\lucnie\source\repos\ConsoleCal\ConsoleCal\obj\Debug\netcoreapp2.1\ConsoleCal.pdb

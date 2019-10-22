@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Unsorted\\Visual Studio Project\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj": {}
+    "C:\\Users\\Lucas\\source\\repos\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj": {}
   },
   "projects": {
-    "E:\\Unsorted\\Visual Studio Project\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj": {
+    "C:\\Users\\Lucas\\source\\repos\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Unsorted\\Visual Studio Project\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\source\\repos\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj",
         "projectName": "ConsoleCal",
-        "projectPath": "E:\\Unsorted\\Visual Studio Project\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "E:\\Unsorted\\Visual Studio Project\\ConsoleCalculator\\ConsoleCal\\obj\\",
+        "projectPath": "C:\\Users\\Lucas\\source\\repos\\ConsoleCalculator\\ConsoleCal\\ConsoleCal.csproj",
+        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lucas\\source\\repos\\ConsoleCalculator\\ConsoleCal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
